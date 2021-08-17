@@ -4,7 +4,7 @@ body{
     padding: 0;
     font-family: sans-serif;
     box-sizing: border-box;
-    background-image: url(../img/peopleimg.jpg);
+    background-image: url(./peopleimg.jpg);
     background-size: cover;
     background-attachment: fixed;
     /* scroll-behavior: ; */
@@ -45,7 +45,7 @@ border-radius: 10px 0px 0px 10px;
 .welcomeDiv{
 width: 50%;
 padding: 10px;
-background-image: url(../img/tree3.jpg);
+background-image: url(./tree3.jpg);
 background-size: cover;
 text-align: center;
 color: white;
